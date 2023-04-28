@@ -14,4 +14,4 @@ The following Python libraries were used in the notebook for data gathering, exp
 - Numpy
 - Panda
 
-Tableau for data visualization.
+Tableau for data visualization. Click [here](https://public.tableau.com/app/profile/md.tareq/viz/LondonBikeRides_16826637966380/Dashboard) to view the dashboard on Tableau.
