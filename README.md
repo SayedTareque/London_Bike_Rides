@@ -1,4 +1,4 @@
-![Logo](https://ichef.bbci.co.uk/news/976/cpsprodpb/AAC1/production/_127831734_bikesnip.png.webp)
+![Logo](https://www.fleeteurope.com/sites/default/files/styles/headlines_width_850/public/field/image/shutterstock_613521713.jpg?itok=QERYYw8r)
 
 # London Bike Rides
 
