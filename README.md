@@ -10,7 +10,7 @@ The dataset used in the notebook contains information on the rides that complete
 
 ## Tools used
 
-The following Python libraries were used in the notebook for data gathering, exploration and manipulation:
+The following Python libraries were used in the notebook for data gathering, cleaning, exploration and manipulation:
 - Numpy
 - Panda
 
